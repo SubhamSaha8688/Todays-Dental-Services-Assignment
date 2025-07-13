@@ -123,3 +123,12 @@ No environment variables are required for basic functionality. The contact form 
 - High contrast mode support
 - Screen reader compatible
 - Focus management for modals
+
+## Deployed in Vercel
+```
+https://todays-dental-services-assignment.vercel.app/
+```
+
+## 🚀 Live Demo
+
+[Visit the deployed site on Vercel](https://todays-dental-services-assignment.vercel.app/)
