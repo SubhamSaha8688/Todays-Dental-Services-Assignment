@@ -125,7 +125,7 @@ const Home = () => {
             <p>Join thousands of satisfied patients who've transformed their smiles with us. Your journey to perfect oral health starts with a simple call.</p>
             <div className="cta-actions">
               <Link to="/contact" className="btn btn-primary btn-large">Get Free Consultation</Link>
-              <a href="tel:+1234567890" className="btn btn-secondary btn-large">Call (234) 567-890</a>
+              <a href="tel:+91 9999999999" className="btn btn-secondary btn-large">Call 9999999999</a>
             </div>
           </div>
         </div>
